@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\bin\Debug\net8.0-windows\EjemploExamen.exe
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\bin\Debug\net8.0-windows\EjemploExamen.deps.json
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\bin\Debug\net8.0-windows\EjemploExamen.runtimeconfig.json
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\bin\Debug\net8.0-windows\EjemploExamen.dll
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\bin\Debug\net8.0-windows\EjemploExamen.pdb
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.Form1.resources
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.Form2.resources
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.dll
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\refint\EjemploExamen.dll
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.pdb
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\EjemploExamen.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\EjemploExamen\obj\Debug\net8.0-windows\ref\EjemploExamen.dll

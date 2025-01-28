@@ -1,0 +1,10 @@
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.AssemblyReference.cache
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio_5.Form1.resources
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio_5.Properties.Resources.resources
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.GenerateResource.cache
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 5\obj\Debug\Ejercicio 5.pdb

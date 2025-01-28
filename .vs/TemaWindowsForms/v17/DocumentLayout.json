@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\COPIA COSAS SUPERIOR\\SEGUNDO A\u00D1O\\DESARROLLO DE INTERFACES\\TEMA 4\\TemaWindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DBD193-4AC4-48BF-B902-D7FE86141656}|Ejercicio 5\\Ejercicio 5.csproj|c:\\users\\usuario\\documents\\copia cosas superior\\segundo a\u00F1o\\desarrollo de interfaces\\tema 4\\temawindowsforms\\ejercicio 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DBD193-4AC4-48BF-B902-D7FE86141656}|Ejercicio 5\\Ejercicio 5.csproj|solutionrelative:ejercicio 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DBD193-4AC4-48BF-B902-D7FE86141656}|Ejercicio 5\\Ejercicio 5.csproj|c:\\users\\usuario\\documents\\copia cosas superior\\segundo a\u00F1o\\desarrollo de interfaces\\tema 4\\temawindowsforms\\ejercicio 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19DBD193-4AC4-48BF-B902-D7FE86141656}|Ejercicio 5\\Ejercicio 5.csproj|solutionrelative:ejercicio 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\COPIA COSAS SUPERIOR\\SEGUNDO A\u00D1O\\DESARROLLO DE INTERFACES\\TEMA 4\\TemaWindowsForms\\Ejercicio 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio 5\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\COPIA COSAS SUPERIOR\\SEGUNDO A\u00D1O\\DESARROLLO DE INTERFACES\\TEMA 4\\TemaWindowsForms\\Ejercicio 5\\Form1.cs",
+              "RelativeToolTip": "Ejercicio 5\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:34:34.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\COPIA COSAS SUPERIOR\\SEGUNDO A\u00D1O\\DESARROLLO DE INTERFACES\\TEMA 4\\TemaWindowsForms\\Ejercicio 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio 5\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\COPIA COSAS SUPERIOR\\SEGUNDO A\u00D1O\\DESARROLLO DE INTERFACES\\TEMA 4\\TemaWindowsForms\\Ejercicio 5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio 5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:34:10.571Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

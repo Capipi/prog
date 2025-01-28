@@ -1,0 +1,22 @@
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio_6.Form1.resources
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio_6.Form2.resources
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio_6.Properties.Resources.resources
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.GenerateResource.cache
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+C:\Users\Samuel\Documents\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.pdb
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio_6.Form1.resources
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio_6.Form2.resources
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio_6.Properties.Resources.resources
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+C:\Users\USUARIO\Documents\COPIA COSAS SUPERIOR\SEGUNDO AÑO\DESARROLLO DE INTERFACES\TEMA 4\TemaWindowsForms\Ejercicio 6\obj\Debug\Ejercicio 6.pdb
